@@ -6,3 +6,4 @@
 ### Controls ⌨️
 ##### `A` `D` or ⬅️ ➡️ - Move left and right 
 ##### `Space` - Jump (Double Jump)
+##### 🖱️ Left Click - Cast Fire Spell
